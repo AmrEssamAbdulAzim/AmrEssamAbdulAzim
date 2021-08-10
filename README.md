@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @AmrEssamAbdulAzim
-- I am interested in machine learning and social sciences! I have tiried multiple tasks in Deep learning specially NLP and Anomaly Detection.
-
+- I am interested in machine learning and social sciences! I worked on multiple tasks in Deep learning specially NLP and Anomaly Detection.
